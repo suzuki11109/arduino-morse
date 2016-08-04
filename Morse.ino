@@ -28,13 +28,6 @@ void loop() {
   }
   end();
   end();
-  
-//  if (!digitalRead(switches)) {
-//    digitalWrite(led, HIGH);
-//  } else {
-//    digitalWrite(led, LOW);
-//  }
-  
 }
 
 void get_morse(char ch) {
